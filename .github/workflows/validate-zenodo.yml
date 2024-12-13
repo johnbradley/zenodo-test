@@ -10,6 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
+      - name: Install dependencies
+        run: npm install zenodraft
       - name: Check .zenodo.json file
         run: |
           npx zenodraft metadata validate .zenodo.json 
