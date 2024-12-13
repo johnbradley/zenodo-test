@@ -42,6 +42,11 @@
   "publication_date": "2024-12-09",
   "title": "pybioclip",
   "version": "1.2.0",
+    "grants": [
+        {
+            "id": "021nxhr62::2118240"
+        }
+    ],  
     "funding": [
       {
         "award": {
