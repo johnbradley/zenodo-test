@@ -3,7 +3,7 @@ name: Check zendo metadata
 on: [push]
 
 jobs:
-  build:
+  check-zenodo-metadata:
 
     runs-on: ubuntu-latest
 
