@@ -47,22 +47,6 @@
             "id": "021nxhr62::2118240"
         }
     ],  
-    "funding": [
-      {
-        "award": {
-          "id": "021nxhr62::2118240",
-          "number": "2118240",
-          "program": "CISE/OAD",
-          "title": {
-            "en": "HDR Institute: Imageomics: A New Frontier of Biological Information Powered by Knowledge-Guided Machine Learning"
-          }
-        },
-        "funder": {
-          "id": "021nxhr62",
-          "name": "National Science Foundation"
-        }
-      }
-    ],
   "references": [
     {
        "reference": "Stevens S, Wu J, Thompson MJ, Campolongo EG, Song CH, Carlyn DE, Dong L, Dahdul WM, Stewart C, Berger-Wolf T, Chao W-L, Su Y (2024) BioCLIP: A Vision Foundation Model for the Tree of Life. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 19412\u201319424."
