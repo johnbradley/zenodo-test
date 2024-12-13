@@ -13,7 +13,7 @@ jobs:
         with:
           node-version: '22'
       - name: Install dependencies
-        run: npm install zenodraft@@.14.1
+        run: npm install zenodraft@.14.1
       - name: Check .zenodo.json file
         run: |
           npx zenodraft metadata validate .zenodo.json 
